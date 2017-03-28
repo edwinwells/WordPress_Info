@@ -1,4 +1,4 @@
-#WordPress (WP), a web-cased tool that can be used to build websites of all types.
+#WordPress (WP), a web-based tool that can be used to build websites of all types.
 
 #WP facts:
 #PHP with some CSS files;
