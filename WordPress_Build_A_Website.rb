@@ -25,4 +25,4 @@
 
 #** Remember- posts will be displayed in reversed chronological order! **
 
-#Settings/Reading: gives the option yo switch from blog to static, save changes & return to/ refresh page; blog posts will be in the menu, under their own category.
+#Settings/Reading: gives the option to switch from blog to static, save changes & return to/ refresh page; blog posts will be in the menu, under their own category.
